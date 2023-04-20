@@ -4,9 +4,9 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Junfeng ZHU
+### I'm huaji1hao
 
-- ❄️ A Computer Science Undergraduate Student in University of Nottingham Ningbo China, UNNC.
+- ❄️ A Computer Science Undergraduate Student.
 - 🌱 Currently studying in Ningbo, China.
 - 💬 Ask me about C++, C, Java and my projects on [scyjz14@nottingham.edu.cn](mailto:scyjz14@nottingham.edu.cn)
 - ⭐ You may like [My Github](https://github.com/huaji1hao)  、[My Luogu](https://www.luogu.com.cn/user/656277) or [My CSDN](https://blog.csdn.net/weixin_66431784?spm=1000.2115.3001.5343)
