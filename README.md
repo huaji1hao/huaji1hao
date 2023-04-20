@@ -1,4 +1,4 @@
-## Hello GitLab 👋
+## Hello Github 👋
 
 [![Mail Badge](https://img.shields.io/badge/-huaji1hao@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:huaji1hao@gmail.com)](mailto:huaji1hao@gmail.com)
 ---
