@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao)](https://github.com/anuraghazra/github-readme-stats)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!!😊***
 
 ⭐️ From [Huaji1hao](https://github.com/huaji1hao)
 
