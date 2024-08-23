@@ -38,7 +38,7 @@
 - [CSDN](https://blog.csdn.net/weixin_66431784?spm=1000.2115.3001.5343)
 - [Gitlab](https://csprojects.nottingham.edu.cn/scyjz14)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!!😊***
 
