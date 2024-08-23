@@ -6,6 +6,8 @@
 
 ### I'm huaji1hao
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang,html,css,shell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 - ❄️ A Computer Science Undergraduate Student.
 - 🌱 Currently studying in Ningbo, China.
 - 💬 Ask me about C++, C, Java and my projects on [scyjz14@nottingham.edu.cn](mailto:scyjz14@nottingham.edu.cn)
@@ -37,8 +39,6 @@
 - [Github](https://github.com/huaji1hao)
 - [CSDN](https://blog.csdn.net/weixin_66431784?spm=1000.2115.3001.5343)
 - [Gitlab](https://csprojects.nottingham.edu.cn/scyjz14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang,html,css,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!!😊***
 
