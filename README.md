@@ -6,7 +6,7 @@
 
 ### I'm huaji1hao
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang,html,css,shell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang,html,css,shell&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 - ❄️ A Computer Science Undergraduate Student.
 - 🌱 Currently studying in Ningbo, China.
