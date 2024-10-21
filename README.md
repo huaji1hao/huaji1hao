@@ -1,4 +1,5 @@
-## Hello Github, I'm huaji1hao 👋
+## Hello, I'm huaji1hao 👋
+### Here is my [blog](https://huaji1hao.com) ！😊
 
 [![Mail Badge](https://img.shields.io/badge/-huaji1hao@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:huaji1hao@gmail.com)](mailto:huaji1hao@gmail.com)
 ---
