@@ -8,7 +8,7 @@
 
 <br>
 
-<div class='container'>
+<div class='container' align="center">
 <img style="height: auto; width: 50.5%;" class="img" src="https://github-readme-stats.vercel.app/api?username=huaji1hao&show_icons=true&theme=transparent" />
 &nbsp;
 &nbsp;
