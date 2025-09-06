@@ -17,7 +17,7 @@
 <br>
 
 
-- ❄️ A Computer Science Undergraduate Student.
+- ❄️ A Computer Science PhD Student.
 - 🌱 Currently studying in Ningbo, China.
 - 💬 Ask me about C++, C, Java and my projects
 - ⭐ You may like [My Github](https://github.com/huaji1hao)  、[My Luogu](https://www.luogu.com.cn/user/656277) or [My CSDN](https://blog.csdn.net/weixin_66431784?spm=1000.2115.3001.5343)
