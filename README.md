@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm huaji1hao. 👋 Here is my <a href="https://huaji1hao.com">blog</a>  ！😊 
+  Hello, I'm huaji1hao. 👋 Here is my <a href="https://huaji1hao.com">blog</a>  ！👻
 </h1>
 
 <div align="center">
