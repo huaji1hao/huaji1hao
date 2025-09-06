@@ -1,22 +1,29 @@
-## Hello, I'm huaji1hao 👋
-### Here is my [blog](https://huaji1hao.com) ！😊
+<h1 align="center">
+  Hello, I'm huaji1hao. 👋 Here is my <a href="https://huaji1hao.com">blog</a>  ！😊 
+</h1>
 
-[![Mail Badge](https://img.shields.io/badge/-huaji1hao@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:huaji1hao@gmail.com)](mailto:huaji1hao@gmail.com)
----
+<div align="center">
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+</div>  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang,html,css,shell&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+<div class='container'>
+<img style="height: auto; width: 50.5%;" class="img" src="https://github-readme-stats.vercel.app/api?username=huaji1hao&show_icons=true&theme=transparent" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaji1hao&size_weight=0.2&count_weight=0.8&exclude_repo=github-readme-stats,huaji1hao.github.io&hide=kvlang,html,css,shell&layout=donut&langs_count=6" /></div>
+</div>
+<br>
 
 
 - ❄️ A Computer Science Undergraduate Student.
 - 🌱 Currently studying in Ningbo, China.
-- 💬 Ask me about C++, C, Java and my projects on [scyjz14@nottingham.edu.cn](mailto:scyjz14@nottingham.edu.cn)
+- 💬 Ask me about C++, C, Java and my projects
 - ⭐ You may like [My Github](https://github.com/huaji1hao)  、[My Luogu](https://www.luogu.com.cn/user/656277) or [My CSDN](https://blog.csdn.net/weixin_66431784?spm=1000.2115.3001.5343)
 - ⚡ Fun fact: C++ developing 🐳
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 
 - 💻 &#160; 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=FF4800)
@@ -27,17 +34,12 @@
 ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=json)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
 - 🛢 &#160; ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=Sqlite)
-![UE5](https://img.shields.io/badge/-UE5-333333?style=flat&logo=UnrealEngine)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?style=flat&logo=openai)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<!-- ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus) -->
 
-
-### 关于我
+### About me
 - [Github](https://github.com/huaji1hao)
 - [CSDN](https://blog.csdn.net/weixin_66431784?spm=1000.2115.3001.5343)
 - [Gitlab](https://csprojects.nottingham.edu.cn/scyjz14)
