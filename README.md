@@ -3,6 +3,12 @@
 </h1>
 
 <div align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=huaji1hao&label=Visitors&color=green&style=flat-square" alt="Profile Views">
+</div>
+
+<br>
+
+<div align="center">
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </div>  
 
